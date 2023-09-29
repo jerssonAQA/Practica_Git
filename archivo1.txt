@@ -3,3 +3,5 @@ Este es el primer proyecto para subir en git
 Mi nombre es Jersson Quintero tengo 27 Años de edad
 
 hay voy a hablar de quien soy yo y a que me dedico
+
+Soy ing electronico
