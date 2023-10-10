@@ -12,3 +12,5 @@ main 2
 Experimento 1
 
 Experimento 2
+
+Se crea un texto aletorio 
